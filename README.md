@@ -2,6 +2,8 @@
 
 ![Password](/../Password-Generator\Password.png?raw=true"Password Generator")
 
+https://ellisd16.github.io/Password-Generator/
+
 
 For this assignment I tried my best to take the user information given and make a randomly generated password. I while i was successful in making the password, I was unfortunately not able to get the password displayed into the text area. This challenge was a tough one, especially when dealing with the routing of if/else statements. Lucky, I was able to work with my classmates and find solutions to most of the problems I was facing.
 
